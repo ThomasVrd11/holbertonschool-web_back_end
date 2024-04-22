@@ -4,5 +4,5 @@ from typing import List, Tuple
 
 
 def element_length(lst: List[str]) -> List[Tuple[str, int]]:
-    """tutu"""
+    """je comprends oas en fait pk ca passe pas"""
     return [(i, len(i)) for i in lst]
