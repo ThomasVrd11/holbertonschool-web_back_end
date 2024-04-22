@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Type-annotated function element_length that takes a list input_list of strings as argument and returns a list of integers representing the lengths of each string in input_list."""
+"""Type-annotated function element_length"""
 from typing import List
 
 
