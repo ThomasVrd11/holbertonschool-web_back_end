@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Type-annotated function sum_mixed_list that takes a list mxd_lst of floats and integers and returns their sum as a float."""
 from typing import List, Union
 
