@@ -2,6 +2,7 @@
 """ zerooooooooo"""
 from typing import Tuple
 
+
 def index_range(page, page_size):
     """ zerooooooooo"""
     end = page * page_size
