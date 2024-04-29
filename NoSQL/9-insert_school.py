@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""nuf """
+"""Function that inserts a new document in a collection based on kwargs"""
 import pymongo
 
+
 def insert_school(mongo_collection, **kwargs):
-    """get me out of here ffs"""
+    """insert the new document"""
     return mongo_collection.insert_one(kwargs).inserted_id
