@@ -1,0 +1,2 @@
+// insertion jsp quoi dire
+db.school.insert({"name": "Holberton school"})
