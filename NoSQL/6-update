@@ -1,0 +1,6 @@
+// alexandre est en train de me parler de son SOD sortez moi de la svp...
+db.school.update(
+    {name: "Holberton school"},
+    {$set: {address: "972 Mission street"}},
+    {multi: true}
+)
