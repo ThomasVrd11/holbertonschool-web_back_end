@@ -1,0 +1,2 @@
+// 5 nn je rigole c'est 4
+db.school.find({"name": "Holberton school"})
