@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """nuf """
-
+import pymongo
 
 def insert_school(mongo_collection, **kwargs):
     """get me out of here ffs"""
